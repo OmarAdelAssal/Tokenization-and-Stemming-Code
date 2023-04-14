@@ -45,6 +45,8 @@ else:
     print("choose one of the available choices..!!!")
 
 
-# Text for testing :
+ # For Testing Stemming try : fairly  <==  This word shows the difference between Porter and Snowball Stemming
+    
+# Text for testing Tokenization:
 # Mohamed Salah Liverpool. Don't try this at home. The LCD monitor i bought last week is smart. I heared that there is a lion escape from The Zoo.
 
